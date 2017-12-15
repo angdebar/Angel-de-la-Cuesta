@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
+<head>
+<title>Blacky</title>
+</head>
 <body>
-<h1>Blacky</h1>
-<p>Welcome to Blacky.</p>
+
+<h1>Blacky-git</h1>
+<p>Welcome</p>
+
 </body>
 </html>
