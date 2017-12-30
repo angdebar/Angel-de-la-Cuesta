@@ -6,7 +6,7 @@
 <body>
 
 <h1>Blacky-git</h1>
-<p>Welcome</p>
+<p>Welcome to my page</p>
 
 </body>
 </html>
