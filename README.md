@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Blacky</title>
+<title>Chispa</title>
 </head>
 <body>
 
-<h1>Blacky-git</h1>
+<h1>Git-Git</h1>
 <p>Welcome to my page!</p>
 
 </body>
